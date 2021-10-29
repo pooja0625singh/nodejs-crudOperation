@@ -1,0 +1,74 @@
+{
+  "1": {
+    "id": 1,
+    "name": "school Bag",
+    "price": "5000",
+    "status": "placed"
+  },
+  "2": {
+    "id": 2,
+    "name": "Notebook",
+    "price": "100",
+    "status": "placed"
+  },
+  "3": {
+    "id": 3,
+    "name": "Laptop",
+    "price": "35000",
+    "status": "delivered"
+  },
+  "4": {
+    "id": 4,
+    "name": "Mobile",
+    "price": "20000",
+    "status": "placed"
+  },
+  "5": {
+    "id": 5,
+    "name": "pen",
+    "price": "50",
+    "status": "processing"
+  },
+  "6": {
+    "id": 6,
+    "name": "shoe",
+    "price": "3000",
+    "status": "delivered"
+  },
+  "9": {
+    "id": 9,
+    "name": "Earpod",
+    "price": "5000",
+    "status": "processing"
+  },
+  "1635491654950": {
+    "id": 8,
+    "name": "Laptop-Charger",
+    "price": "2500",
+    "status": "Placed"
+  },
+  "1635492077440": {
+    "id": 9,
+    "name": "Earphone",
+    "price": "600",
+    "status": "Placed"
+  },
+  "1635493954193": {
+    "id": 10,
+    "name": "Purse",
+    "price": "500",
+    "status": "processing"
+  },
+  "1635494619726": {
+    "id": 11,
+    "name": "Tab",
+    "price": "50000",
+    "status": "processing"
+  },
+  "1635495256989": {
+    "id": 12,
+    "name": "Dark-Chocolate",
+    "price": "500",
+    "status": "processing"
+  }
+}
